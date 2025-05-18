@@ -1,10 +1,15 @@
-# Bagdat Bilisbek
-
 **Backend Developer**  
 _Almaty, Kazakhstan_  
 📧 [bagdat365@gmail.com](mailto:bagdat365@gmail.com)  
-🔗 [LinkedIn](http://www.linkedin.com/in/bagdatbilisbek)  
-🔗 [Telegram](https://t.me/guten_anna)
+🔗 [LinkedIn](http://www.linkedin.com/in/bagdatbilisbek)
+
+---
+
+## 👩‍💻 About Me
+
+Backend Developer with **2.5 years of experience**, including **8 months leading** a team of 3 engineers.  
+I specialize in **Golang, C#, PostgreSQL, and Kafka**, building scalable, high-performance backend services.  
+I enjoy designing maintainable systems using **microservices**, optimizing workflows, and improving DB performance.
 
 ---
 
@@ -59,21 +64,13 @@ Agile/Scrum, Unit & Integration Testing
 **Languages:**
 
 - 🇬🇧 English (fluent)
-- 🇷🇺 Russian (native)
 - 🇰🇷 Korean (fluent)
-
----
-
-## 👩‍💻 About Me
-
-Backend Developer with **2.5 years of experience**, including **8 months leading** a team of 3 engineers.  
-I specialize in **Golang, C#, PostgreSQL, and Kafka**, building scalable, high-performance backend services.  
-I enjoy designing maintainable systems using **microservices**, optimizing workflows, and improving DB performance.
+- 🇰🇿 Kazakh (native)
+- 🇷🇺 Russian (native)
 
 ---
 
 ## 📣 Let's Connect
 
 💌 [bagdat365@gmail.com](mailto:bagdat365@gmail.com)  
-📎 [LinkedIn Profile](http://www.linkedin.com/in/bagdatbilisbek)  
-📱 [Telegram Channel](https://t.me/guten_anna) — _I share insights on interviews (Zalando) and job search tips 💖_
+📎 [LinkedIn Profile](http://www.linkedin.com/in/bagdatbilisbek)
