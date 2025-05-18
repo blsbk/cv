@@ -1,9 +1,3 @@
----
-layout: page
-title: "CV — Bagdat Bilisbek"
-permalink: /cv/
----
-
 # Bagdat Bilisbek
 
 **Backend Developer**  
